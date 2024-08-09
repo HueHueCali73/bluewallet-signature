@@ -1,0 +1,2 @@
+# bluewallet-signature
+offline signature
